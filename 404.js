@@ -1,3 +1,4 @@
+<script>
 (function ($) {
   $(function () {
 
@@ -93,3 +94,4 @@ $().ready(function () {
 
   });
 })(jQuery);
+</script>
