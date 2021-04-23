@@ -1,5 +1,4 @@
-<script>
-(function ($) {
+function ($) {
   $(function () {
 
 $().ready(function () {
@@ -93,5 +92,4 @@ $().ready(function () {
 });
 
   });
-})(jQuery);
-</script>
+}
